@@ -11,19 +11,8 @@ The dataset comes with predefined train/validation/test splits:
 - [3,200 posts for training](training.jsonl)
 - [800 posts for validation](validation.jsonl)
 
-The data folder contains train.jsonl and validation.jsonl. 
 
-The spoiler type classification is loaded with train.jsonl and validation.jsonl data. It contains the following  spoiler type classification:
-
--Feature_based_classification: The ipynb codebase, with milestone2 and novel_feature based classification(milestone3)
-
--Neural_based_classification: The ipynb codebase with baseline_bilstm(milestone2) and novel_bilstm(milestone3).
-
--Transformer_based_classification: The ipynb codebase with baseline_bert_classification(milestone2) and novel_bert_classification(milestone3).
-
-The passage retrieval folder consists of ipynb notebook of passage retrieval codebase. 
-
-## Spoiler classification
+## Spoiler type classification
 
 ### Steps to execute (Feature_based_classification(milestone2).ipynb,novel_feature_based_classification.ipynb, baseline_biLSTM.ipynb, novel_biLSTM.ipynb, baseline_BERT_classification.ipynb, novel_BERT_classification.ipynb)
 
