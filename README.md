@@ -14,7 +14,7 @@ The dataset comes with predefined train/validation/test splits:
 
 ## Spoiler type classification
 
-### Steps to execute (Feature_based_classification(milestone2).ipynb,novel_feature_based_classification.ipynb, baseline_biLSTM.ipynb, novel_biLSTM.ipynb, baseline_BERT_classification.ipynb, novel_BERT_classification.ipynb)
+### Steps to execute- (Feature_based_classification(milestone2).ipynb,novel_feature_based_classification.ipynb, baseline_biLSTM.ipynb, novel_biLSTM.ipynb, baseline_BERT_classification.ipynb, novel_BERT_classification.ipynb)
 
 * Open the notebook.
 * Some packages require python version to be 3.9. To change it, Tools->Command Pallete-> Use Fallback runtime version
