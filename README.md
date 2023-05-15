@@ -13,13 +13,23 @@ The dataset comes with predefined train/validation/test splits:
 
 
 ## Spoiler type classification
+1. The code has three different folders for feture based classification, neural based classification and transformer based classification.
+2. To execute the feature based classification folder:
+  * navigate to Feature_based_classification(milestone2).ipynb for baseline code.
+  * navigate to novel_feature_based_classification.ipynb for milestone-3 novel approach.
+3. To execute the neural based classification folder:
+  * navigate to baseline_biLSTM.ipynb for baseline code of milestone-2
+  * navigate to novel_biLSTM.ipynb for milestone-3 novel approach.
+4. To execute the transformer based classification:
+  * navigate to baseline_BERT_classification.ipynb for baseline code of milestone-2.
+  * navaigate to novel_BERT_classification.ipynb for novel approach of milestone-3.
 
-### Steps to execute- (Feature_based_classification(milestone2).ipynb,novel_feature_based_classification.ipynb, baseline_biLSTM.ipynb, novel_biLSTM.ipynb, baseline_BERT_classification.ipynb, novel_BERT_classification.ipynb)
-
+### Steps to execute the notebook files- 
 * Open the notebook.
 * Some packages require python version to be 3.9. To change it, Tools->Command Pallete-> Use Fallback runtime version
 * Upload the train.jsonl and validation.jsonl to the notebook environment
 * Run all the cells
+
 
 ## Question Answering
 1. The code base has two differnt folders for Milestone 2 and Milestone 3 inside the Question Answering folder
