@@ -32,21 +32,21 @@ The dataset comes with predefined train/validation/test splits:
 
 
 ## Question Answering
-1. The code base has two differnt folders for Milestone 2 and Milestone 3 inside the Question Answering folder
+1. The code base has two different folders for Milestone 2 and Milestone 3 inside the Question Answering folder
 2. To execute the baseline code, navigate to Milestone 2 folder,
-  * Open the notebook
+  * Open the respective notebooks for BERT, RoBERTa, and DeBERTa
   * Upload the raw data from [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Data]
   * Run all the cells
-  * Results and trained models would be stores in the drive
+  * Results and trained models would be stored in the drive
 3. To execute the novel approach, navigate to Milestone 3 folder,
-  * Either execute the Novel_Data_Preparation.ipynb notebook[https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/blob/main/Question%20Answering/Milestone_2/Novel_Data_Preparation.ipynb] or use the   preprocessed data from [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Question%20Answering/Milestone_2/Processed_Data] for the below steps
-  * To execute phrase spoiler generation model navigate to Question Answering/Milestone_2/Phrase_Spoiler_Generation
-  * To execute passage spoiler generation model navigate to Question Answering/Milestone_2/Passage_Spoiler_Generation
+  * Either execute the Novel_Data_Preparation.ipynb notebook[https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/blob/main/Question%20Answering/Milestone_3/Novel_Data_Preparation.ipynb] or use the   preprocessed data from [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Question%20Answering/Milestone_3/Processed_Data] for the below steps
+  * To execute phrase spoiler generation model navigate to Question Answering/Milestone_3/Phrase_Spoiler_Generation
+  * To execute passage spoiler generation model navigate to Question Answering/Milestone_3/Passage_Spoiler_Generation
   * Open the corresponding notebooks for BERT, RoBERTa, and DeBERTa
   * Upload the Processed Data
   * Run all the cells
   * Results and trained models would be stores in the drive
-4. To execute the end to end model, navigate to [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Question%20Answering/Milestone_2/End_to_End_Pipeline]
+4. To execute the end to end model, navigate to [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Question%20Answering/Milestone_3/End_to_End_Pipeline]
   * Due to space constraint, we were not able to upload the saved model
   * Execute the Milestone 3 codes, Phrase level DeBERTa and Passage level DeBERTa
   * Verify if the model has been saved in the drive
