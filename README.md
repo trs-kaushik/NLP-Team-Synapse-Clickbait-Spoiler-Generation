@@ -36,6 +36,13 @@ The dataset comes with predefined train/validation/test splits:
   * Upload the Processed Data
   * Run all the cells
   * Results and trained models would be stores in the drive
+4. To execute the end to end model, navigate to [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Question%20Answering/Milestone_2/End_to_End_Pipeline]
+  * Due to space constraint, we were not able to upload the saved model
+  * Execute the Milestone 3 codes, Phrase level DeBERTa and Passage level DeBERTa
+  * Verify if the model has been saved in the drive
+  * Open the End to End pipeline script
+  * Execute the RoBERTa classifier or take the already predicted data from [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/blob/main/Question%20Answering/Milestone_3/Processed_Data/RoBERTa_classified_validation_dataset.jsonl] and upload into the local directly of the end_to_end pipeline script
+  * Run all the cells
 
 ## Passage retrieval
 
