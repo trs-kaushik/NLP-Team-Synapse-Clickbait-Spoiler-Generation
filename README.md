@@ -21,6 +21,22 @@ The dataset comes with predefined train/validation/test splits:
 * Upload the train.jsonl and validation.jsonl to the notebook environment
 * Run all the cells
 
+## Question Answering
+1. The code base has two differnt folders for Milestone 2 and Milestone 3 inside the Question Answering folder
+2. To execute the baseline code, navigate to Milestone 2 folder,
+  * Open the notebook
+  * Upload the raw data from [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Data]
+  * Run all the cells
+  * Results and trained models would be stores in the drive
+3. To execute the novel approach, navigate to Milestone 3 folder,
+  * Either execute the Novel_Data_Preparation.ipynb notebook[https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/blob/main/Question%20Answering/Milestone_2/Novel_Data_Preparation.ipynb] or use the   preprocessed data from [https://github.com/trs-kaushik/NLP_Team_Synapse_Clickbait_Spoiler_Generation/tree/main/Question%20Answering/Milestone_2/Processed_Data] for the below steps
+  * To execute phrase spoiler generation model navigate to Question Answering/Milestone_2/Phrase_Spoiler_Generation
+  * To execute passage spoiler generation model navigate to Question Answering/Milestone_2/Passage_Spoiler_Generation
+  * Open the corresponding notebooks for BERT, RoBERTa, and DeBERTa
+  * Upload the Processed Data
+  * Run all the cells
+  * Results and trained models would be stores in the drive
+
 ## Passage retrieval
 
 ### Steps to execute - (passage_retrieval.ipynb)
