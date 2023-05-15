@@ -22,3 +22,20 @@ The spoiler type classification is loaded with train.jsonl and validation.jsonl 
 -Transformer_based_classification: The ipynb codebase with baseline_bert_classification(milestone2) and novel_bert_classification(milestone3).
 
 The passage retrieval folder consists of ipynb notebook of passage retrieval codebase. 
+
+## Spoiler classification
+
+### Steps to execute (baseline_biLSTM.ipynb, novel_biLSTM.ipynb, baseline_BERT_classification.ipynb, novel_BERT_classification.ipynb)
+
+* Open the notebook
+* Some packages require python version to be 3.9. To change it, Tools->Command Pallete-> Use Fallback runtime version
+* Upload the train.jsonl and validation.jsonl to the notebook environment
+* Run all the cells
+
+## Passage retrieval
+
+### Steps to execute - (passage_retrieval.ipynb)
+* Open the notebook
+* Some packages require python version to be 3.9. To change it, Tools->Command Pallete-> Use Fallback runtime version
+* Upload the train.jsonl and validation.jsonl to the notebook environment
+* Run all the cells
