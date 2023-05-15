@@ -12,6 +12,7 @@ The dataset comes with predefined train/validation/test splits:
 - [800 posts for validation](validation.jsonl)
 
 The data folder contains train.jsonl and validation.jsonl. 
+#Spoiler Type Classification
 The spoiler type classification is loaded with train.jsonl and validation.jsonl data. It contains the following  spoiler type classification:
 -Feature_based_classification: The ipynb codebase, with milestone2 and novel_feature based classification(milestone3)
 -Neural_based_classification: The ipynb codebase with baseline_bilstm(milestone2) and novel_bilstm(milestone3).
