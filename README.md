@@ -1,4 +1,11 @@
 # NLP_Team_Synapse_Clickbait_Spoiler_Generation
+
+## Contributors - 
+* **Kaushik Kumar TRS**
+* **Swaminathan Venkataraman**
+* **Nikitha Sadananda**
+
+## Summary
 The Webis Clickbait Spoiling Corpus 2022 (Webis-Clickbait-22) contains 5,000 spoiled clickbait posts crawled from Facebook, Reddit, and Twitter.
 This corpus supports the task of clickbait spoiling, which deals with generating a short text that satisfies the curiosity induced by a clickbait post.
 This dataset contains the clickbait posts and manually cleaned versions of the linked documents, and extracted spoilers for each clickbait post.
